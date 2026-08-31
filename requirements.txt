@@ -1,0 +1,11 @@
+# Data Processing
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Indonesian NLP
+Sastrawi
+
+# Visualization
+matplotlib
